@@ -76,4 +76,38 @@
       
     ]
   }
-]}
+],
+"favoriteAlbums":[
+   {
+    "id": 1,
+    "title": "Cars",
+    "price": 15,
+    "albumCover": "https://cdn.pixabay.com/photo/2017/07/20/15/56/winter-2522720_1280.jpg",
+    "images":[
+      "https://cdn.pixabay.com/photo/2017/03/27/14/56/auto-2179220_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2014/09/07/22/34/car-race-438467_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/09/11/10/02/renault-juvaquatre-1661009_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/09/11/16/47/car-1661767_1280.jpg",
+      "https://cdn.pixabay.com/photo/2020/09/06/07/37/car-5548242_1280.jpg",
+      "https://cdn.pixabay.com/photo/2015/06/05/15/02/audi-798530_1280.jpg",
+      "https://cdn.pixabay.com/photo/2019/08/08/23/33/car-4393990_1280.jpg"
+      
+    ]
+  },
+   {
+    "id": 2,
+    "title": "Fish",
+    "price": 15,
+    "albumCover": "https://cdn.pixabay.com/photo/2013/10/25/20/46/mosaic-200864_1280.jpg",
+    "images":[
+      "https://cdn.pixabay.com/photo/2014/06/30/08/02/zitronenfalter-fish-380037_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/12/31/21/22/discus-fish-1943755_1280.jpg",
+      "https://cdn.pixabay.com/photo/2020/10/12/20/57/aquarium-5650174_1280.jpg",
+      "https://cdn.pixabay.com/photo/2020/06/06/03/38/fish-5265096_1280.jpg",
+      "https://cdn.pixabay.com/photo/2021/08/13/07/11/siamese-fighting-fish-6542427_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/07/11/11/01/fishes-7314666_1280.jpg",
+      "https://cdn.pixabay.com/photo/2020/04/18/14/01/blue-5059268_1280.jpg"
+    ]
+  }
+]
+}
