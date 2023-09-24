@@ -74,20 +74,5 @@
       "https://cdn.pixabay.com/photo/2015/06/05/15/02/audi-798530_1280.jpg",
       "https://cdn.pixabay.com/photo/2019/08/08/23/33/car-4393990_1280.jpg"
     ]
-  },
-  {
-    "id": 6,
-    "title": "Trains",
-    "price": 20,
-    "albumCover": "https://cdn.pixabay.com/photo/2013/12/01/22/54/locomotive-222174_1280.jpg",
-    "images":[
-      "https://cdn.pixabay.com/photo/2014/10/24/18/29/steam-train-501638_1280.jpg",
-      "https://cdn.pixabay.com/photo/2017/11/07/11/15/steam-locomotive-2926525_1280.jpg",
-      "https://cdn.pixabay.com/photo/2018/02/19/00/14/lost-place-3163912_1280.jpg",
-      "https://cdn.pixabay.com/photo/2017/11/14/07/45/christmas-2947668_1280.jpg",
-      "https://cdn.pixabay.com/photo/2023/03/18/09/06/railway-7860168_1280.jpg",
-      "https://cdn.pixabay.com/photo/2023/06/08/13/04/fichtelbergbahn-8049565_1280.jpg",
-      "https://cdn.pixabay.com/photo/2020/05/30/01/03/shinkansen-5237269_1280.jpg"
-    ]
   }
 ]
